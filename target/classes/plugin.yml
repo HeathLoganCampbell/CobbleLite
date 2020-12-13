@@ -1,0 +1,4 @@
+name: CobbleLite
+main: dev.cobblesword.cobblelite.CobbleLitePlugin
+version: 1.0
+authors: [ Sprock, SprockPls ]

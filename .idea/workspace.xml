@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d99712e5-f050-48e9-bd7d-603aa0d7dd82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lYEZ4oFucEaeCfAS4vDSJj5TeI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CobbleLite [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d99712e5-f050-48e9-bd7d-603aa0d7dd82" name="Default Changelist" comment="" />
+      <created>1607765676674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607765676674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1053" y="326" key="#Project_Structure" timestamp="1607774714967">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1053" y="326" key="#Project_Structure/0.0.2498.1440@0.0.2498.1440" timestamp="1607774714967" />
+    <state x="414" y="377" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607775876781">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="414" y="377" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2498.1440@0.0.2498.1440" timestamp="1607775876781" />
+    <state x="765" y="526" key="#com.intellij.ide.util.MemberChooser" timestamp="1607776912674">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="765" y="526" key="#com.intellij.ide.util.MemberChooser/0.0.2498.1440@0.0.2498.1440" timestamp="1607776912674" />
+    <state x="640" y="458" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607775531736">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="640" y="458" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2498.1440@0.0.2498.1440" timestamp="1607775531736" />
+    <state x="742" y="689" width="438" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607777160041">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="742" y="689" width="438" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2498.1440@0.0.2498.1440" timestamp="1607777160041" />
+    <state x="639" y="781" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607778838867">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="639" y="781" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2498.1440@0.0.2498.1440" timestamp="1607778838867" />
+    <state width="1620" height="343" key="GridCell.Tab.0.bottom" timestamp="1607779802519">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1620" height="343" key="GridCell.Tab.0.bottom/0.0.2498.1440@0.0.2498.1440" timestamp="1607779802519" />
+    <state width="1620" height="343" key="GridCell.Tab.0.center" timestamp="1607779802519">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1620" height="343" key="GridCell.Tab.0.center/0.0.2498.1440@0.0.2498.1440" timestamp="1607779802519" />
+    <state width="1620" height="343" key="GridCell.Tab.0.left" timestamp="1607779802519">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1620" height="343" key="GridCell.Tab.0.left/0.0.2498.1440@0.0.2498.1440" timestamp="1607779802519" />
+    <state width="1620" height="343" key="GridCell.Tab.0.right" timestamp="1607779802519">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1620" height="343" key="GridCell.Tab.0.right/0.0.2498.1440@0.0.2498.1440" timestamp="1607779802519" />
+    <state x="615" y="767" width="587" height="534" key="find.popup" timestamp="1607779654587">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="615" y="767" width="587" height="534" key="find.popup/0.0.2498.1440@0.0.2498.1440" timestamp="1607779654587" />
+    <state x="500" y="695" key="new project wizard" timestamp="1607780394625">
+      <screen x="0" y="0" width="2498" height="1440" />
+    </state>
+    <state x="500" y="695" key="new project wizard/0.0.2498.1440@0.0.2498.1440" timestamp="1607780394625" />
+  </component>
+</project>
