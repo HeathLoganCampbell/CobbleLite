@@ -16,4 +16,5 @@
 - NPCs
 
 ## Future improvement
-* Wrap Bukkit class, and make a dummy plugin per file, that the events get registered to 
+* Wrap Bukkit class, and make a dummy plugin per file, that the events get registered to
+* Add a polyfill header.js
