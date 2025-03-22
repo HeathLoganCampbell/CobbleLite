@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "checkJs": true,  // Enable type checking in JavaScript files
+      "allowJs": true,  // Allow JavaScript files to be included in the project
+      "noEmit": true     // Don't generate .js output, just type checking
+    },
+    "include": [
+      "src/**/*.js",   // Adjust path based on your project structure
+      "types/**/*.d.ts"  // Include .d.ts files in the types folder
+    ]
+  }
